@@ -1,0 +1,18 @@
+//
+//  Strings.swift
+//  MovieApp
+//
+//  Created by AyeSuNaing on 04/10/2023.
+//
+
+import Foundation
+
+let LABEL_DISCOVER = "Discover"
+let LABEL_SHOWCASE = "SHOWCASES"
+let LABEL_MORESHOWCASE = "MORE SHOWCASES"
+let LABEL_ACTORS = "MORE ACTORS"
+let LABEL_MOREACTORS = "MORE ACTORS"
+
+let LABEL_DETAILS_ACTOR = "ACTORS"
+let LABEL_CREATORS = "CREATORS"
+let LABEL_MORE_CREATORS = "MORE_CREATORS"
